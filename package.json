@@ -1,0 +1,8 @@
+{
+  "name": "dhhmh-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DHHMH Revenue Management System - online deployment package",
+  "scripts": {"start":"node server.js"},
+  "engines": {"node":">=20"}
+}
